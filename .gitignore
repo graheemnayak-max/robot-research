@@ -1,0 +1,16 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+MUJOCO_LOG.TXT
+*.mp4
+
+robot-research/
+CUsers*.xml
+
+.env
+robot-research/
+CUsers*.xml
+
+C*Usersgraherobot-researchsimulatorsimple_6dof_arm.xml
